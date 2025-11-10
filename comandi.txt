@@ -1,0 +1,3 @@
+git add . -> aggiungi tutti i file 
+git commit -m "Contenuto del modifiche"
+git push origin main -> mette tutto us 
